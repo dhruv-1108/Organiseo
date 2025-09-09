@@ -13,7 +13,7 @@ import {
     FormMessage,
 } from "@/components/ui/form";
 import { Input } from "../ui/input";
-import { Button } from "../button";
+import { Button } from "../ui/button";
 import axios from "axios";
 
 const formSchema = z.object({
